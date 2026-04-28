@@ -1,0 +1,411 @@
+================================================================================
+POLAND SURVEY - QUALTRICS SETUP INSTRUCTIONS
+================================================================================
+Survey: Political, Economic, and Social Consequences of US Military Presence
+        Outside the United States
+Source files used: Poland_Survey_Template_EN_20251207.docx (English structure)
+                   Poland_Survey_Template_PL_20251207.docx (Polish translations)
+
+NOTE ON ATTENTION CHECK VIGNETTE: Both language versions use the same numbers:
+6% and 30,000,000 USD. The correct answers are therefore:
+  MV1: 6%
+  MV2: 50 years
+  MV3: 30,000,000 USD
+
+================================================================================
+STEP 1: IMPORT THE SURVEY
+================================================================================
+1. In Qualtrics, go to "Create a new project" → "Survey"
+2. Select "Import a QSF or TXT file"
+3. Upload "poland_survey_qualtrics_EN_v2.txt"
+4. The survey imports in English with all 4 blocks and questions.
+
+================================================================================
+STEP 2: ADD THE POLISH TRANSLATION
+================================================================================
+1. In your survey, go to Survey → Tools → Translations
+2. Click "Import"
+3. Upload "Poland_Surveys_2026-EN-PL_v2_translated.txt"
+4. Qualtrics will map the Polish translations to each question automatically.
+5. Respondents can switch language using the language selector on the survey.
+
+================================================================================
+STEP 3: SET ALL QUESTIONS AS MANDATORY (Force Response)
+================================================================================
+All questions include a "Don't know / Decline to answer" option, which satisfies
+the "mandatory but can opt out" IRB requirement.
+
+In Qualtrics: for every question → Validation → Force Response → ON
+
+Exceptions (do NOT force response — these are conditional on prior answers):
+  Q8other   → show & force only if Q8 = "Other (please specify)"
+  Q21       → show & force only if Q20 = "Yes"
+  Q21other  → show only if Q21 includes "Other type of contact"
+  Q23       → show & force only if Q22 = "Yes"
+  Q23other  → show only if Q23 includes "Other type of contact"
+  Q25       → show & force only if Q24 = "Yes"
+  Q27       → show & force only if Q26 = "Yes"
+
+================================================================================
+STEP 4: CONFIGURE BLOCK 2 ATTENTION CHECK - RANDOMIZE ANSWER ORDER
+================================================================================
+For MV1, MV2, MV3:
+  Question → Choice Randomization → Randomly Present All Choices
+
+Correct answers (for quality filtering in data cleaning):
+  MV1: 6%
+  MV2: 50 years
+  MV3: 30,000,000 USD
+
+================================================================================
+STEP 5: CONJOINT EXPERIMENT SETUP
+================================================================================
+
+--- 5A: ADD EMBEDDED DATA FIELDS TO SURVEY FLOW ---
+
+In Survey Flow, add an "Embedded Data" element at the VERY TOP (before the
+Consent block). Add all 281 fields below (leave values blank — the JavaScript
+will populate them at runtime). Use the file "embedded_data_fields_v2.txt" to
+enter them.
+
+Fields follow two patterns:
+
+  CODE fields (used for data analysis):
+    AttrOrder
+    C{1-10}_P{1-2}_Country
+    C{1-10}_P{1-2}_Personnel
+    C{1-10}_P{1-2}_UnitType
+    C{1-10}_P{1-2}_Proximity
+    C{1-10}_P{1-2}_Economic
+    C{1-10}_P{1-2}_Noise
+    C{1-10}_P{1-2}_Environment
+
+  LABEL fields (display text shown to respondent, language-aware):
+    C{1-10}_P{1-2}_Country_label
+    C{1-10}_P{1-2}_Personnel_label
+    C{1-10}_P{1-2}_UnitType_label
+    C{1-10}_P{1-2}_Proximity_label
+    C{1-10}_P{1-2}_Economic_label
+    C{1-10}_P{1-2}_Noise_label
+    C{1-10}_P{1-2}_Environment_label
+
+  Total: 1 (AttrOrder) + 140 (code fields) + 140 (label fields) = 281 fields
+
+--- 5B: ADD THE RANDOMIZATION JAVASCRIPT ---
+
+Go to the question in "Block 3 - Conjoint Intro", click the gear/settings icon,
+select "Add JavaScript", and replace all existing content with the following:
+
+------------ BEGIN JAVASCRIPT ------------
+
+Qualtrics.SurveyEngine.addOnload(function() {
+
+  // ============================================================
+  // TRANSLATION LOOKUP TABLES
+  // ============================================================
+
+  var labels = {
+    EN: {
+      Country: {
+        US: "United States",
+        UK: "United Kingdom",
+        CA: "Canada",
+        DE: "Germany",
+        TR: "Turkey"
+      },
+      Personnel: {
+        "500":   "500",
+        "2000":  "2,000",
+        "5000":  "5,000",
+        "10000": "10,000"
+      },
+      UnitType: {
+        INF:  "Infantry unit — soldiers armed with small arms, traveling in light vehicles and armored cars (e.g. Humvees)",
+        ARM:  "Heavy armor unit — a unit composed of tanks and large armored vehicles for transporting soldiers",
+        HELO: "Attack helicopter unit — helicopters designed to attack enemy infantry and vehicles",
+        ABM:  "Anti-ballistic missile defense unit — ground-based missile systems designed to intercept and destroy enemy missiles and aircraft",
+        AIR:  "Air superiority fighter unit — combat aircraft whose primary mission is to fight enemy aircraft and maintain air superiority",
+        ARTY: "Field artillery unit — cannons and rocket launchers used to fire on enemy soldiers and armored vehicles from greater distances"
+      },
+      Proximity: {
+        "5KM":   "5 km",
+        "100KM": "100 km",
+        "250KM": "250 km"
+      },
+      Economic: {
+        "1M":  "Expected revenue for local businesses: 1 million USD per year",
+        "5M":  "Expected revenue for local businesses: 5 million USD per year",
+        "10M": "Expected revenue for local businesses: 10 million USD per year"
+      },
+      Noise: {
+        LOW:  "Minimal increase in noise levels",
+        MOD:  "Moderate increase in noise levels",
+        HIGH: "Significant increase in noise levels"
+      },
+      Environment: {
+        NONE: "No negative environmental impact",
+        MOD:  "Moderate negative environmental impact",
+        SIG:  "Significant negative environmental impact"
+      }
+    },
+
+    PL: {
+      Country: {
+        US: "Stany Zjednoczone",
+        UK: "Wielka Brytania",
+        CA: "Kanada",
+        DE: "Niemcy",
+        TR: "Turcja"
+      },
+      Personnel: {
+        "500":   "500",
+        "2000":  "2 000",
+        "5000":  "5 000",
+        "10000": "10 000"
+      },
+      UnitType: {
+        INF:  "Jednostka piechoty — żołnierze uzbrojeni w broń ręczną, poruszający się lekkimi pojazdami, samochodami opancerzonymi (np. Humvee)",
+        ARM:  "Jednostka pancerna — oddział złożony z czołgów i dużych pojazdów opancerzonych do transportu żołnierzy",
+        HELO: "Jednostka śmigłowców szturmowych — śmigłowce przeznaczone do atakowania wrogiej piechoty i pojazdów",
+        ABM:  "Jednostka obrony przeciwrakietowej — naziemne systemy rakietowe, które mają za zadanie przechwytywać i niszczyć wrogie pociski oraz samoloty",
+        AIR:  "Jednostka lotnicza — samoloty bojowe, których głównym zadaniem jest walka z wrogimi samolotami i utrzymanie przewagi w powietrzu",
+        ARTY: "Jednostka artylerii polowej — działa i wyrzutnie rakiet służące do ostrzeliwania wrogich żołnierzy oraz pojazdów pancernych z większej odległości"
+      },
+      Proximity: {
+        "5KM":   "5 km",
+        "100KM": "100 km",
+        "250KM": "250 km"
+      },
+      Economic: {
+        "1M":  "Oczekiwany przychód dla lokalnych firm: 1 milion dolarów (USD) rocznie",
+        "5M":  "Oczekiwany przychód dla lokalnych firm: 5 milionów dolarów (USD) rocznie",
+        "10M": "Oczekiwany przychód dla lokalnych firm: 10 milionów dolarów (USD) rocznie"
+      },
+      Noise: {
+        LOW:  "Niewielki wzrost poziomu hałasu",
+        MOD:  "Umiarkowany wzrost poziomu hałasu",
+        HIGH: "Znaczny wzrost poziomu hałasu"
+      },
+      Environment: {
+        NONE: "Brak negatywnego wpływu",
+        MOD:  "Umiarkowany negatywny wpływ",
+        SIG:  "Znaczący negatywny wpływ"
+      }
+    }
+  };
+
+  // ============================================================
+  // DETECT ACTIVE LANGUAGE — falls back to EN if not PL
+  // ============================================================
+  var lang = "${e://Field/Q_Language}";
+  if (lang !== "PL") { lang = "EN"; }
+  var t = labels[lang];
+
+  // ============================================================
+  // ATTRIBUTE LEVEL POOLS (codes)
+  // ============================================================
+  var countries   = ["US", "UK", "CA", "DE", "TR"];
+  var personnel   = ["500", "2000", "5000", "10000"];
+  var unitTypes   = ["INF", "ARM", "HELO", "ABM", "AIR", "ARTY"];
+  var proximity   = ["5KM", "100KM", "250KM"];
+  var economic    = ["1M", "5M", "10M"];
+  var noise       = ["LOW", "MOD", "HIGH"];
+  var environment = ["NONE", "MOD", "SIG"];
+
+  // ============================================================
+  // UTILITY FUNCTIONS
+  // ============================================================
+  function shuffle(array) {
+    var arr = array.slice();
+    for (var i = arr.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
+    }
+    return arr;
+  }
+
+  function pick(array) {
+    return array[Math.floor(Math.random() * array.length)];
+  }
+
+  function setED(key, code, attr) {
+    Qualtrics.SurveyEngine.setEmbeddedData(key, code);
+    Qualtrics.SurveyEngine.setEmbeddedData(key + "_label", t[attr][code]);
+  }
+
+  // ============================================================
+  // RANDOMIZE ATTRIBUTE ROW ORDER ONCE PER RESPONDENT
+  // ============================================================
+  var attrKeys = ["Country", "Personnel", "UnitType", "Proximity",
+                  "Economic", "Noise", "Environment"];
+  var attrOrder = shuffle(attrKeys);
+  Qualtrics.SurveyEngine.setEmbeddedData("AttrOrder", attrOrder.join("|"));
+
+  // ============================================================
+  // GENERATE 10 CONJOINT SETS
+  // ============================================================
+  for (var set = 1; set <= 10; set++) {
+    var pfx = "C" + set;
+
+    var codes = {
+      P1: {
+        Country:     pick(countries),
+        Personnel:   pick(personnel),
+        UnitType:    pick(unitTypes),
+        Proximity:   pick(proximity),
+        Economic:    pick(economic),
+        Noise:       pick(noise),
+        Environment: pick(environment)
+      },
+      P2: {
+        Country:     pick(countries),
+        Personnel:   pick(personnel),
+        UnitType:    pick(unitTypes),
+        Proximity:   pick(proximity),
+        Economic:    pick(economic),
+        Noise:       pick(noise),
+        Environment: pick(environment)
+      }
+    };
+
+    ["P1", "P2"].forEach(function(p) {
+      var c = codes[p];
+      setED(pfx + "_" + p + "_Country",     c.Country,     "Country");
+      setED(pfx + "_" + p + "_Personnel",   c.Personnel,   "Personnel");
+      setED(pfx + "_" + p + "_UnitType",    c.UnitType,    "UnitType");
+      setED(pfx + "_" + p + "_Proximity",   c.Proximity,   "Proximity");
+      setED(pfx + "_" + p + "_Economic",    c.Economic,    "Economic");
+      setED(pfx + "_" + p + "_Noise",       c.Noise,       "Noise");
+      setED(pfx + "_" + p + "_Environment", c.Environment, "Environment");
+    });
+  }
+
+});
+
+------------ END JAVASCRIPT ------------
+
+--- 5C: REORDER TABLE ROWS PER RESPONDENT (OPTIONAL) ---
+
+To randomize the order of attribute rows in each conjoint table (so rows appear
+in a different order for each respondent), attach the following JavaScript to
+each conjoint table question (Conjoint Sets 1 through 10) via "Add JavaScript"
+→ addOnload. The row order will match the AttrOrder stored for that respondent.
+
+Qualtrics.SurveyEngine.addOnload(function() {
+  var orderStr = "${e://Field/AttrOrder}";
+  var order = orderStr.split("|");
+  var table = document.querySelector("table");
+  if (!table) return;
+  var rows = Array.from(table.querySelectorAll("tr"));
+  var dataRows = rows.slice(1);
+
+  var attrToRow = {};
+  dataRows.forEach(function(row) {
+    var cell = row.querySelector("td");
+    if (!cell) return;
+    var text = cell.innerText.trim().toLowerCase();
+    if (text.includes("country"))             attrToRow["Country"] = row;
+    else if (text.includes("personnel"))      attrToRow["Personnel"] = row;
+    else if (text.includes("unit type"))      attrToRow["UnitType"] = row;
+    else if (text.includes("proximity"))      attrToRow["Proximity"] = row;
+    else if (text.includes("economic"))       attrToRow["Economic"] = row;
+    else if (text.includes("noise"))          attrToRow["Noise"] = row;
+    else if (text.includes("environment"))    attrToRow["Environment"] = row;
+  });
+
+  var tbody = table.tBodies[0] || table;
+  while (tbody.rows.length > 1) { tbody.deleteRow(1); }
+  order.forEach(function(attr) {
+    if (attrToRow[attr]) tbody.appendChild(attrToRow[attr]);
+  });
+});
+
+================================================================================
+STEP 6: ADD DISPLAY LOGIC FOR CONDITIONAL QUESTIONS
+================================================================================
+The following questions should only appear if the respondent answered "Yes"
+to the preceding gate question. Set this up via "Add Display Logic" on each:
+
+  Q8 open-end  → Display if: Q8 = "Other (please specify)"
+  Q21          → Display if: Q20 = "Yes"
+  Q21 open-end → Display if: Q21 = "Other type of contact (please describe)"
+  Q23          → Display if: Q22 = "Yes"
+  Q23 open-end → Display if: Q23 = "Other type of contact (please describe)"
+  Q25          → Display if: Q24 = "Yes"
+  Q27          → Display if: Q26 = "Yes"
+
+================================================================================
+STEP 7: Q9 POLITICAL IDEOLOGY SCALE
+================================================================================
+Q9 is a single-answer multiple choice question with options 1–10 plus
+"Decline to answer." For a cleaner visual presentation, consider changing the
+question type to a Slider (Min=1, Max=10, Step=1) in Qualtrics. If using the
+slider, add "Decline to answer" as a separate checkbox question immediately
+after, with display logic to hide Q9 if the checkbox is selected.
+
+================================================================================
+STEP 8: DATA STRUCTURE SUMMARY
+================================================================================
+Each respondent record will contain the following variables:
+
+  Block 1 — Demographics
+    Q1  Gender
+    Q2  Minority status
+    Q3  Education level
+    Q4  Age
+    Q5  Voivodeship and powiat of residence (~380 choices)
+    Q6  Monthly net income (PLN)
+    Q7  Primary income source
+    Q8  Religion (+ open-end if "Other")
+    Q9  Political ideology (1–10 scale)
+
+  Block 2 — Attention Check
+    MV1  Hydroelectric power percentage question
+    MV2  Dam age question
+    MV3  Annual revenue question
+
+  Block 3 — Conjoint Experiment
+    Attribute code fields (140):   C1_P1_Country … C10_P2_Environment
+    Attribute label fields (140):  C1_P1_Country_label … C10_P2_Environment_label
+    Attribute row order (1):       AttrOrder (pipe-delimited, e.g. "Country|Noise|...")
+    Conjoint responses (30):       C{1-10}Q1, C{1-10}Q2, C{1-10}Q3
+      Q1 = Preferred proposal (1=Proposal 1, 2=Proposal 2, 3=Accept either, 4=Reject both)
+      Q2 = Rating of Proposal 1 (1=Strongly Oppose … 5=Strongly Support)
+      Q3 = Rating of Proposal 2 (1=Strongly Oppose … 5=Strongly Support)
+
+  Block 4 — General Attitudes
+    Q10  Poland-neighbor relations
+    Q11  Opinion of US government
+    Q12  Opinion of US people
+    Q13  US influence in Poland (amount)
+    Q14  US influence in Poland (quality)
+    Q15  General opinion of US military presence in Poland
+    Q16  US military impact on Polish economy
+    Q17  US military impact on local/regional economy
+    Q18  US military impact on crime and public safety
+    Q19  US military impact on Poland's security from foreign threats
+    Q20  Personal direct contact with US military (Yes/No)
+    Q21  Type of personal contact (multi-select, shown if Q20=Yes)
+    Q22  Family/friend direct contact with US military (Yes/No)
+    Q23  Type of family/friend contact (multi-select, shown if Q22=Yes)
+    Q24  Personal direct economic benefit from US military (Yes/No)
+    Q25  Degree of personal reliance on that benefit (shown if Q24=Yes)
+    Q26  Family/friend direct economic benefit from US military (Yes/No)
+    Q27  Degree of family/friend reliance on that benefit (shown if Q26=Yes)
+    Q28  Feel safer due to US military presence (Yes/No)
+    Q29  Ever attended protest against US military base
+    Q30  Would attend protest if planned in community next month
+
+  Total variables per respondent: ~315
+    (demographics + attention check + 281 embedded data + 30 conjoint responses
+     + general attitude questions)
+
+================================================================================
+STEP 9: ATTRIBUTE/CODE REFERENCE
+================================================================================
+See "conjoint_attribute_code_reference.txt" for the full table of attribute
+codes and their English/Polish display labels.
+
+================================================================================
+END OF SETUP INSTRUCTIONS
+================================================================================

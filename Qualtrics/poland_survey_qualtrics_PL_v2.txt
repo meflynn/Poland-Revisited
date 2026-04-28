@@ -1,0 +1,1262 @@
+[[AdvancedFormat]]
+
+[[Block:Consent]]
+
+[[Question:DB]]
+[[ID:QConsent]]
+<b>Kwestionariusz ankiety</b><br><br>
+<b>Polityczne, gospodarcze i społeczne konsekwencje obecności wojskowej Stanów Zjednoczonych poza granicami USA</b><br><br>
+Michael Allen, profesor na Boise State University, Michael Flynn, profesor na Kansas State University, Carla Martinez Machain, profesor na State University of New York Buffalo oraz mgr Grzegorz Smułek, naukowiec z Uniwersytetu Jagiellońskiego w Krakowie prowadzą badania, których celem jest ocena postrzeganych kosztów i korzyści związanych z amerykańską obecnością wojskową w różnych krajach. Ponieważ zamieszkuje Państwo w kraju swojego pochodzenia, chcielibyśmy poprosić o wypełnienie niniejszej ankiety.<br><br>
+Uczestnictwo w ankiecie jest dobrowolne. Jej wypełnienie nie powinno trwać więcej niż około 15 minut. Uczestniczyć w niej mogą wyłącznie osoby pełnoletnie (powyżej 18 roku życia).<br><br>
+Prosimy aby spróbowali Państwo odpowiedzieć na wszystkie pytania. Jeśli jednak jakiekolwiek treści sprawią, że poczują się Państwo niezręcznie lub woleliby Państwo pominąć pytanie, prosimy o zostawienie pustego pola lub wybranie odpowiedniej pozycji. Wszystkie odpowiedzi są anonimowe.<br><br>
+Udział w badaniu nie wiąże się z żadnym istotnym ryzykiem.<br><br>
+Jeśli mają Państwo jakiekolwiek pytania lub obawy, prosimy o kontakt z Michaelem Allenem:<br><br>
+<b>Michael A. Allen</b><br>
+<b>Department of Political Science</b><br>
+<b>Boise State University</b><br>
+<b>1-208-426-2518</b><br>
+<b>Michaelaallen@boisestate.edu</b><br><br>
+Jeśli mają Państwo pytania dotyczące praw, jakie przysługują Państwu jako uczestnikom badania, mogą Państwo skontaktować się z Instytucjonalną Komisją Rewizyjną Boise State University (IRB), która zajmuje się ochroną wolontariuszy biorących udział w projektach badawczych. Z biurem komisji można kontaktować się od poniedziałku do piątku w godzinach od 8:00 do 17:00 (czasu pacyficznego), dzwoniąc pod numer telefonu 1-208-426-5401 lub pisząc pod adres: Institutional Review Board, Office of Research Compliance, Boise State University, 1910 University Dr., Boise, ID 83725-1138.<br><br>
+Jeśli nie chcą Państwo wziąć udziału w badaniu, prosimy nie wypełniać ankiety.<br><br>
+Jeśli zgadzają się Państwo na udział w badaniu, prosimy o wypełnienie ankiety.
+
+[[PageBreak]]
+
+[[Block:Block 1 - Demographics]]
+
+[[Question:DB]]
+[[ID:QBlock1Intro]]
+<b>SEKCJA 1. NAJPIERW CHCIELIBYŚMY ZADAĆ KILKA PODSTAWOWYCH PYTAŃ</b><br><i>(prosimy o zaznaczenie odpowiedzi)</i>
+
+[[Question:MC]]
+[[ID:Q1]]
+Proszę podać swoją płeć
+[[Choices]]
+Mężczyzna
+Kobieta
+Osoba niebinarna
+Żadne z powyższych
+Odmawiam odpowiedzi
+
+[[Question:MC]]
+[[ID:Q2]]
+Czy identyfikujesz się jako mniejszość religijna/etniczna/rasowa?
+[[Choices]]
+Tak
+Nie
+Odmawiam odpowiedzi
+
+[[Question:MC]]
+[[ID:Q3]]
+Jaki jest Twój poziom wykształcenia?
+[[Choices]]
+Podstawowe
+Średnie
+Zawodowe
+Wyższe (licencjat/inżynier)
+Wyższe (magister lub wyżej)
+
+[[Question:MC]]
+[[ID:Q4]]
+Proszę podać swój wiek
+[[Choices]]
+18 do 24 lat
+25 do 34 lat
+35 do 44 lat
+45 do 54 lat
+55 do 64 lat
+Powyżej 65 lat
+Odmawiam odpowiedzi
+
+[[Question:MC]]
+[[ID:Q5]]
+Proszę zaznaczyć swoje miejsce zamieszkania
+[[Choices]]
+Dolnośląskie - Bolesławiec
+Dolnośląskie - Dzierżoniów
+Dolnośląskie - Głogów
+Dolnośląskie - Góra
+Dolnośląskie - Jawor
+Dolnośląskie - Jelenia Góra
+Dolnośląskie - Jelenia Góra (miasto)
+Dolnośląskie - Kamienna Góra
+Dolnośląskie - Kłodzko
+Dolnośląskie - Legnica
+Dolnośląskie - Legnica (miasto)
+Dolnośląskie - Lubań
+Dolnośląskie - Lubiń
+Dolnośląskie - Lwówek Śląski
+Dolnośląskie - Milicz
+Dolnośląskie - Oława
+Dolnośląskie - Oleśnica
+Dolnośląskie - Polkowice
+Dolnośląskie - Środa Śląska
+Dolnośląskie - Strzelin
+Dolnośląskie - Świdnica
+Dolnośląskie - Trzebnica
+Dolnośląskie - Wałbrzych
+Dolnośląskie - Wołów
+Dolnośląskie - Wrocław
+Dolnośląskie - Wrocław (miasto)
+Dolnośląskie - Ząbkowice Śląskie
+Dolnośląskie - Zgorzelec
+Dolnośląskie - Złotoryja
+Kujawsko-Pomorskie - Aleksandrów
+Kujawsko-Pomorskie - Brodnica
+Kujawsko-Pomorskie - Bydgoszcz
+Kujawsko-Pomorskie - Bydgoszcz (miasto)
+Kujawsko-Pomorskie - Chełmno
+Kujawsko-Pomorskie - Golub-Dobrzyń
+Kujawsko-Pomorskie - Grudziądz
+Kujawsko-Pomorskie - Grudziądz (miasto)
+Kujawsko-Pomorskie - Inowrocław
+Kujawsko-Pomorskie - Lipno
+Kujawsko-Pomorskie - Mogilno
+Kujawsko-Pomorskie - Nakło
+Kujawsko-Pomorskie - Radziejów
+Kujawsko-Pomorskie - Rypin
+Kujawsko-Pomorskie - Sępólno
+Kujawsko-Pomorskie - Świecie
+Kujawsko-Pomorskie - Toruń
+Kujawsko-Pomorskie - Toruń (miasto)
+Kujawsko-Pomorskie - Tuchola
+Kujawsko-Pomorskie - Wąbrzeźno
+Kujawsko-Pomorskie - Włocławek
+Kujawsko-Pomorskie - Włocławek (miasto)
+Kujawsko-Pomorskie - Żnin
+Łódzkie - Bełchatów
+Łódzkie - Brzeziny
+Łódzkie - Kutno
+Łódzkie - Łask
+Łódzkie - Łęczyca
+Łódzkie - Łódź
+Łódzkie - Łódzki Wschodni
+Łódzkie - Łowicz
+Łódzkie - Opoczno
+Łódzkie - Pabianice
+Łódzkie - Pajęczno
+Łódzkie - Piotrków
+Łódzkie - Piotrków Trybunalski
+Łódzkie - Poddębice
+Łódzkie - Radomsko
+Łódzkie - Rawa
+Łódzkie - Sieradz
+Łódzkie - Skierniewice
+Łódzkie - Skierniewice (miasto)
+Łódzkie - Tomaszów Mazowiecki
+Łódzkie - Wieluń
+Łódzkie - Wieruszów
+Łódzkie - Zduńska Wola
+Łódzkie - Zgierz
+Lubelskie - Biała Podlaska
+Lubelskie - Biała Podlaska (miasto)
+Lubelskie - Biłgoraj
+Lubelskie - Chełm
+Lubelskie - Chełm (miasto)
+Lubelskie - Hrubieszów
+Lubelskie - Janów Lubelski
+Lubelskie - Kraśnik
+Lubelskie - Krasnystaw
+Lubelskie - Łęczna
+Lubelskie - Lubartów
+Lubelskie - Lublin
+Lubelskie - Lublin (miasto)
+Lubelskie - Łuków
+Lubelskie - Opole Lubelskie
+Lubelskie - Parczew
+Lubelskie - Puławy
+Lubelskie - Radzyń Podlaski
+Lubelskie - Ryki
+Lubelskie - Świdnik
+Lubelskie - Tomaszów Lubelski
+Lubelskie - Włodawa
+Lubelskie - Zamość
+Lubelskie - Zamość (miasto)
+Lubuskie - Gorzów
+Lubuskie - Gorzów Wielkopolski
+Lubuskie - Krosno Odrzańskie
+Lubuskie - Międzyrzecz
+Lubuskie - Nowa Sól
+Lubuskie - Słubice
+Lubuskie - Strzelce-Drezdenko
+Lubuskie - Sulęcin
+Lubuskie - Świebodzin
+Lubuskie - Wschowa
+Lubuskie - Żagań
+Lubuskie - Żary
+Lubuskie - Zielona Góra
+Lubuskie - Zielona Góra (miasto)
+Małopolskie - Bochnia
+Małopolskie - Brzesko
+Małopolskie - Chrzanów
+Małopolskie - Dąbrowa
+Małopolskie - Gorlice
+Małopolskie - Kraków
+Małopolskie - Kraków (miasto)
+Małopolskie - Limanowa
+Małopolskie - Miechów
+Małopolskie - Myślenice
+Małopolskie - Nowy Sącz
+Małopolskie - Nowy Sącz (miasto)
+Małopolskie - Nowy Targ
+Małopolskie - Olkusz
+Małopolskie - Oświęcim
+Małopolskie - Proszowice
+Małopolskie - Sucha
+Małopolskie - Tarnów
+Małopolskie - Tarnów (miasto)
+Małopolskie - Tatra
+Małopolskie - Wadowice
+Małopolskie - Wieliczka
+Mazowieckie - Białobrzegi
+Mazowieckie - Ciechanów
+Mazowieckie - Garwolin
+Mazowieckie - Gostynin
+Mazowieckie - Grodzisk Mazowiecki
+Mazowieckie - Grójec
+Mazowieckie - Kozienice
+Mazowieckie - Legionowo
+Mazowieckie - Lipsko
+Mazowieckie - Łosice
+Mazowieckie - Maków
+Mazowieckie - Mińsk
+Mazowieckie - Mława
+Mazowieckie - Nowy Dwór Mazowiecki
+Mazowieckie - Ostrołęka
+Mazowieckie - Ostrołęka (miasto)
+Mazowieckie - Ostrów Mazowiecka
+Mazowieckie - Otwock
+Mazowieckie - Piaseczno
+Mazowieckie - Płock
+Mazowieckie - Płock (miasto)
+Mazowieckie - Płońsk
+Mazowieckie - Pruszków
+Mazowieckie - Przasnysz
+Mazowieckie - Przysucha
+Mazowieckie - Pułtusk
+Mazowieckie - Radom
+Mazowieckie - Radom (miasto)
+Mazowieckie - Siedlce
+Mazowieckie - Siedlce (miasto)
+Mazowieckie - Sierpc
+Mazowieckie - Sochaczew
+Mazowieckie - Sokołów
+Mazowieckie - Szydłowiec
+Mazowieckie - Warszawa Zachodni
+Mazowieckie - Warszawa
+Mazowieckie - Węgrów
+Mazowieckie - Wołomin
+Mazowieckie - Wyszków
+Mazowieckie - Żuromin
+Mazowieckie - Zwoleń
+Mazowieckie - Żyrardów
+Opolskie - Brzeg
+Opolskie - Głubczyce
+Opolskie - Kędzierzyn-Koźle
+Opolskie - Kluczbork
+Opolskie - Krapkowice
+Opolskie - Namysłów
+Opolskie - Nysa
+Opolskie - Olesno
+Opolskie - Opole
+Opolskie - Opole (miasto)
+Opolskie - Prudnik
+Opolskie - Strzelce
+Podkarpackie - Bieszczady
+Podkarpackie - Brzozów
+Podkarpackie - Dębica
+Podkarpackie - Jarosław
+Podkarpackie - Jasło
+Podkarpackie - Kolbuszowa
+Podkarpackie - Krosno
+Podkarpackie - Krosno (miasto)
+Podkarpackie - Łańcut
+Podkarpackie - Lesko
+Podkarpackie - Leżajsk
+Podkarpackie - Lubaczów
+Podkarpackie - Mielec
+Podkarpackie - Nisko
+Podkarpackie - Przemyśl
+Podkarpackie - Przemyśl (miasto)
+Podkarpackie - Przeworsk
+Podkarpackie - Ropczyce-Sędziszów
+Podkarpackie - Rzeszów
+Podkarpackie - Rzeszów (miasto)
+Podkarpackie - Sanok
+Podkarpackie - Stalowa Wola
+Podkarpackie - Strzyżów
+Podkarpackie - Tarnobrzeg
+Podkarpackie - Tarnobrzeg (miasto)
+Podlaskie - Augustów
+Podlaskie - Białystok
+Podlaskie - Białystok (miasto)
+Podlaskie - Bielsk
+Podlaskie - Grajewo
+Podlaskie - Hajnówka
+Podlaskie - Kolno
+Podlaskie - Łomża
+Podlaskie - Łomża (miasto)
+Podlaskie - Mońki
+Podlaskie - Sejny
+Podlaskie - Siemiatycze
+Podlaskie - Sokółka
+Podlaskie - Suwałki
+Podlaskie - Suwałki (miasto)
+Podlaskie - Wysokie Mazowieckie
+Podlaskie - Zambrów
+Pomorskie - Bytów
+Pomorskie - Chojnice
+Pomorskie - Człuchów
+Pomorskie - Gdańsk
+Pomorskie - Gdańsk (miasto)
+Pomorskie - Gdynia
+Pomorskie - Kartuzy
+Pomorskie - Kościerzyna
+Pomorskie - Kwidzyn
+Pomorskie - Lębork
+Pomorskie - Malbork
+Pomorskie - Nowy Dwór Gdański
+Pomorskie - Puck
+Pomorskie - Słupsk
+Pomorskie - Słupsk (miasto)
+Pomorskie - Sopot
+Pomorskie - Starogard
+Pomorskie - Sztum
+Pomorskie - Tczew
+Pomorskie - Wejherowo
+Śląskie - Będzin
+Śląskie - Bielsko
+Śląskie - Bielsko-Biała
+Śląskie - Bieruń-Lędziny
+Śląskie - Bytom
+Śląskie - Chorzów
+Śląskie - Cieszyn
+Śląskie - Częstochowa
+Śląskie - Częstochowa (miasto)
+Śląskie - Dąbrowa Górnicza
+Śląskie - Gliwice
+Śląskie - Gliwice (miasto)
+Śląskie - Jastrzębie-Zdrój
+Śląskie - Jaworzno
+Śląskie - Katowice
+Śląskie - Kłobuck
+Śląskie - Lubliniec
+Śląskie - Mikołów
+Śląskie - Mysłowice
+Śląskie - Myszków
+Śląskie - Piekary Śląskie
+Śląskie - Pszczyna
+Śląskie - Racibórz
+Śląskie - Ruda Śląska
+Śląskie - Rybnik
+Śląskie - Rybnik (miasto)
+Śląskie - Siemianowice Śląskie
+Śląskie - Sosnowiec
+Śląskie - Świętochłowice
+Śląskie - Tarnowskie Góry
+Śląskie - Tychy
+Śląskie - Wodzisław
+Śląskie - Zabrze
+Śląskie - Zawiercie
+Śląskie - Żory
+Śląskie - Żywiec
+Świętokrzyskie - Busko
+Świętokrzyskie - Jędrzejów
+Świętokrzyskie - Kazimierza
+Świętokrzyskie - Kielce
+Świętokrzyskie - Kielce (miasto)
+Świętokrzyskie - Końskie
+Świętokrzyskie - Opatów
+Świętokrzyskie - Ostrowiec
+Świętokrzyskie - Pińczów
+Świętokrzyskie - Sandomierz
+Świętokrzyskie - Skarżysko
+Świętokrzyskie - Starachowice
+Świętokrzyskie - Staszów
+Świętokrzyskie - Włoszczowa
+Warmińsko-Mazurskie - Bartoszyce
+Warmińsko-Mazurskie - Braniewo
+Warmińsko-Mazurskie - Działdowo
+Warmińsko-Mazurskie - Elbląg
+Warmińsko-Mazurskie - Elbląg (miasto)
+Warmińsko-Mazurskie - Ełk
+Warmińsko-Mazurskie - Giżycko
+Warmińsko-Mazurskie - Gołdap
+Warmińsko-Mazurskie - Iława
+Warmińsko-Mazurskie - Kętrzyn
+Warmińsko-Mazurskie - Lidzbark
+Warmińsko-Mazurskie - Mrągowo
+Warmińsko-Mazurskie - Nidzica
+Warmińsko-Mazurskie - Nowe Miasto
+Warmińsko-Mazurskie - Olecko
+Warmińsko-Mazurskie - Olsztyn
+Warmińsko-Mazurskie - Olsztyn (miasto)
+Warmińsko-Mazurskie - Ostróda
+Warmińsko-Mazurskie - Pisz
+Warmińsko-Mazurskie - Szczytno
+Warmińsko-Mazurskie - Węgorzewo
+Wielkopolskie - Chodzież
+Wielkopolskie - Czarnków-Trzcianka
+Wielkopolskie - Gniezno
+Wielkopolskie - Gostyń
+Wielkopolskie - Grodzisk Wielkopolski
+Wielkopolskie - Jarocin
+Wielkopolskie - Kalisz
+Wielkopolskie - Kalisz (miasto)
+Wielkopolskie - Kępno
+Wielkopolskie - Koło
+Wielkopolskie - Konin
+Wielkopolskie - Konin (miasto)
+Wielkopolskie - Kościan
+Wielkopolskie - Krotoszyn
+Wielkopolskie - Leszno
+Wielkopolskie - Leszno (miasto)
+Wielkopolskie - Międzychód
+Wielkopolskie - Nowy Tomyśl
+Wielkopolskie - Oborniki
+Wielkopolskie - Ostrów Wielkopolski
+Wielkopolskie - Ostrzeszów
+Wielkopolskie - Piła
+Wielkopolskie - Pleszew
+Wielkopolskie - Poznań
+Wielkopolskie - Poznań (miasto)
+Wielkopolskie - Rawicz
+Wielkopolskie - Słupca
+Wielkopolskie - Śrem
+Wielkopolskie - Środa Wielkopolska
+Wielkopolskie - Szamotuły
+Wielkopolskie - Turek
+Wielkopolskie - Wągrowiec
+Wielkopolskie - Wolsztyn
+Wielkopolskie - Września
+Wielkopolskie - Złotów
+Zachodniopomorskie - Białogard
+Zachodniopomorskie - Choszczno
+Zachodniopomorskie - Drawsko
+Zachodniopomorskie - Goleniów
+Zachodniopomorskie - Gryfice
+Zachodniopomorskie - Gryfino
+Zachodniopomorskie - Kamień
+Zachodniopomorskie - Kołobrzeg
+Zachodniopomorskie - Koszalin
+Zachodniopomorskie - Koszalin (miasto)
+Zachodniopomorskie - Łobez
+Zachodniopomorskie - Myślibórz
+Zachodniopomorskie - Police
+Zachodniopomorskie - Pyrzyce
+Zachodniopomorskie - Sławno
+Zachodniopomorskie - Stargard
+Zachodniopomorskie - Świdwin
+Zachodniopomorskie - Świnoujście
+Zachodniopomorskie - Szczecin
+Zachodniopomorskie - Szczecinek
+Zachodniopomorskie - Wałcz
+Zachodniopomorskie - Zalew Szczeciński
+
+[[Question:MC]]
+[[ID:Q6]]
+Jaki jest Twój łączny miesięczny dochód własny netto (w złotówkach)?
+[[Choices]]
+0 - 2200
+2201 - 2800
+2801 - 3400
+3401 - 4200
+Ponad 4200
+Odmawiam odpowiedzi
+
+[[Question:MC]]
+[[ID:Q7]]
+Proszę podać swoje główne źródło dochodu:
+[[Choices]]
+Praca na pełen etat lub inna umowa w sektorze prywatnym
+Praca na pełen etat lub inna umowa w sektorze rządowym lub publicznym
+Własna działalność gospodarcza (pozarolnicza)
+Rolnictwo
+Renta lub emerytura
+Inne źródła
+
+[[Question:MC]]
+[[ID:Q8]]
+Czy identyfikujesz się z którąś z religii?
+[[Choices]]
+Katolicyzm
+Protestantyzm
+Islam
+Hinduizm
+Buddyzm
+Szinto
+Judaizm
+Mormonizm
+Religia lokalna
+Niewierzący
+Inne (proszę podać)
+Odmawiam odpowiedzi
+
+[[Question:TE:SingleLine]]
+[[ID:Q8other]]
+Proszę podać swoją religię:
+
+[[Question:MC]]
+[[ID:Q9]]
+Ludzie różnią się poglądami politycznymi — niektórzy mają bardziej lewicowe (liberalne), inni bardziej prawicowe (konserwatywne) opinie. Gdzie umieścił(a)byś siebie na tej skali poglądów?<br><br>LEWICA (1) ——————————————————— PRAWICA (10)
+[[Choices]]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Odmawiam odpowiedzi
+
+[[PageBreak]]
+
+[[Block:Block 2 - Attention Check]]
+
+[[Question:DB]]
+[[ID:QMVIntro]]
+<i>Jakość naszej ankiety jest dla nas bardzo ważna. Aby upewnić się, że odpowiedzi są rzetelne, włączyliśmy krótkie pytanie kontrolne, które pozwala zweryfikować, czy respondent jest prawdziwą osobą:</i><br><br>
+<i>Szacuje się, że elektrownie wodne wytwarzają około 6% całej energii elektrycznej w Ameryce Północnej. Naukowcy coraz częściej wyrażają obawy, że starzejące się tamy nie są już wystarczająco wydajne i nie spełniają potrzeb współczesnych sieci energetycznych. Martwią się także, że większość tych konstrukcji, mających ponad 50 lat, może nie być już w pełni bezpieczna. Eksperci szacują, że dostosowanie tam do obecnych standardów może kosztować ponad 5 miliardów dolarów w ciągu najbliższych pięciu lat, przy czym wszystkie razem generują około 30 milionów dolarów rocznie z produkcji energii elektrycznej. To skłania decydentów do zastanowienia się, czy modernizacja jest opłacalna.</i>
+
+[[Question:MC]]
+[[ID:QMV1]]
+Zgodnie z powyższym tekstem, jaki procent energii elektrycznej w Ameryce Północnej pochodzi z elektrowni wodnych?
+[[Choices]]
+2%
+5%
+10%
+28%
+40%
+
+[[Question:MC]]
+[[ID:QMV2]]
+Zgodnie z powyższym tekstem, większość elektrowni wodnych w Ameryce Północnej ma ponad:
+[[Choices]]
+50 lat
+15 lat
+70 lat
+100 lat
+120 lat
+
+[[Question:MC]]
+[[ID:QMV3]]
+Zgodnie z powyższym tekstem, elektrownie wodne w Ameryce Północnej generują rocznie energię o wartości:
+[[Choices]]
+50 000 dolarów
+100 000 dolarów
+5 000 000 dolarów
+30 000 000 dolarów
+200 000 000 dolarów
+
+[[PageBreak]]
+
+[[Block:Block 3 - Conjoint Intro]]
+
+[[Question:DB]]
+[[ID:QConjointIntro]]
+Od początku wojny w Ukrainie Rosja przeprowadziła kilka ataków o niskiej intensywności na kraje europejskie. 9 września 2025 roku kilkanaście rosyjskich dronów wojskowych naruszyło polską przestrzeń powietrzną. Przedstawiciele Polski i NATO poinformowali, że biorąc pod uwagę liczbę zaangażowanych dronów, był to prawdopodobnie test możliwości obronnych Polski. Podobne sytuacje miały miejsce na terytorium innych państw europejskich jesienią 2025 roku. W ostatnim czasie — 20 listopada — polski rząd poinformował, że w odpowiedzi na rosyjskie ataki sabotażowe na linię kolejową Warszawa–Lublin, które miały miejsce w powiecie Garwolińskim (województwo Mazowieckie), we wschodniej Polsce rozmieszczone zostaną dodatkowe siły polskiego wojska.<br><br>
+W odpowiedzi na te wydarzenia rząd polski podjął działania mające na celu wzmocnienie swojej obronności i relacji z sojusznikami z NATO. W ramach tych działań rząd polski prowadzi negocjacje z partnerami z NATO w sprawie przyjęcia dodatkowego personelu wojskowego NATO. Wielkość i skład tych kontyngentów nie są obecnie znane. W poniższej sekcji przedstawimy Państwu szereg możliwych profili rozmieszczenia kontyngentów do porównania i poprosimy o Państwa opinię.
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 1]]
+
+[[Question:DB]]
+[[ID:QC1Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C1_P1_Country_label}</td><td>${e://Field/C1_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C1_P1_Personnel_label}</td><td>${e://Field/C1_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C1_P1_UnitType_label}</td><td>${e://Field/C1_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C1_P1_Proximity_label}</td><td>${e://Field/C1_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C1_P1_Economic_label}</td><td>${e://Field/C1_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C1_P1_Noise_label}</td><td>${e://Field/C1_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C1_P1_Environment_label}</td><td>${e://Field/C1_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC1Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC1Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC1Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 2]]
+
+[[Question:DB]]
+[[ID:QC2Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C2_P1_Country_label}</td><td>${e://Field/C2_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C2_P1_Personnel_label}</td><td>${e://Field/C2_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C2_P1_UnitType_label}</td><td>${e://Field/C2_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C2_P1_Proximity_label}</td><td>${e://Field/C2_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C2_P1_Economic_label}</td><td>${e://Field/C2_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C2_P1_Noise_label}</td><td>${e://Field/C2_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C2_P1_Environment_label}</td><td>${e://Field/C2_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC2Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC2Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC2Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 3]]
+
+[[Question:DB]]
+[[ID:QC3Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C3_P1_Country_label}</td><td>${e://Field/C3_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C3_P1_Personnel_label}</td><td>${e://Field/C3_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C3_P1_UnitType_label}</td><td>${e://Field/C3_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C3_P1_Proximity_label}</td><td>${e://Field/C3_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C3_P1_Economic_label}</td><td>${e://Field/C3_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C3_P1_Noise_label}</td><td>${e://Field/C3_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C3_P1_Environment_label}</td><td>${e://Field/C3_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC3Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC3Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC3Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 4]]
+
+[[Question:DB]]
+[[ID:QC4Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C4_P1_Country_label}</td><td>${e://Field/C4_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C4_P1_Personnel_label}</td><td>${e://Field/C4_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C4_P1_UnitType_label}</td><td>${e://Field/C4_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C4_P1_Proximity_label}</td><td>${e://Field/C4_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C4_P1_Economic_label}</td><td>${e://Field/C4_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C4_P1_Noise_label}</td><td>${e://Field/C4_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C4_P1_Environment_label}</td><td>${e://Field/C4_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC4Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC4Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC4Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 5]]
+
+[[Question:DB]]
+[[ID:QC5Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C5_P1_Country_label}</td><td>${e://Field/C5_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C5_P1_Personnel_label}</td><td>${e://Field/C5_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C5_P1_UnitType_label}</td><td>${e://Field/C5_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C5_P1_Proximity_label}</td><td>${e://Field/C5_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C5_P1_Economic_label}</td><td>${e://Field/C5_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C5_P1_Noise_label}</td><td>${e://Field/C5_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C5_P1_Environment_label}</td><td>${e://Field/C5_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC5Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC5Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC5Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 6]]
+
+[[Question:DB]]
+[[ID:QC6Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C6_P1_Country_label}</td><td>${e://Field/C6_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C6_P1_Personnel_label}</td><td>${e://Field/C6_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C6_P1_UnitType_label}</td><td>${e://Field/C6_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C6_P1_Proximity_label}</td><td>${e://Field/C6_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C6_P1_Economic_label}</td><td>${e://Field/C6_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C6_P1_Noise_label}</td><td>${e://Field/C6_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C6_P1_Environment_label}</td><td>${e://Field/C6_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC6Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC6Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC6Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 7]]
+
+[[Question:DB]]
+[[ID:QC7Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C7_P1_Country_label}</td><td>${e://Field/C7_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C7_P1_Personnel_label}</td><td>${e://Field/C7_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C7_P1_UnitType_label}</td><td>${e://Field/C7_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C7_P1_Proximity_label}</td><td>${e://Field/C7_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C7_P1_Economic_label}</td><td>${e://Field/C7_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C7_P1_Noise_label}</td><td>${e://Field/C7_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C7_P1_Environment_label}</td><td>${e://Field/C7_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC7Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC7Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC7Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 8]]
+
+[[Question:DB]]
+[[ID:QC8Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C8_P1_Country_label}</td><td>${e://Field/C8_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C8_P1_Personnel_label}</td><td>${e://Field/C8_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C8_P1_UnitType_label}</td><td>${e://Field/C8_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C8_P1_Proximity_label}</td><td>${e://Field/C8_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C8_P1_Economic_label}</td><td>${e://Field/C8_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C8_P1_Noise_label}</td><td>${e://Field/C8_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C8_P1_Environment_label}</td><td>${e://Field/C8_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC8Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC8Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC8Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 9]]
+
+[[Question:DB]]
+[[ID:QC9Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C9_P1_Country_label}</td><td>${e://Field/C9_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C9_P1_Personnel_label}</td><td>${e://Field/C9_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C9_P1_UnitType_label}</td><td>${e://Field/C9_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C9_P1_Proximity_label}</td><td>${e://Field/C9_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C9_P1_Economic_label}</td><td>${e://Field/C9_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C9_P1_Noise_label}</td><td>${e://Field/C9_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C9_P1_Environment_label}</td><td>${e://Field/C9_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC9Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC9Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC9Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Conjoint Set 10]]
+
+[[Question:DB]]
+[[ID:QC10Table]]
+<b>Prosimy o zapoznanie się z poniższymi dwiema propozycjami rozmieszczenia wojsk:</b><br><br>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#f2f2f2;"><th style="width:30%;">Atrybut</th><th style="width:35%;">Propozycja nr 1</th><th style="width:35%;">Propozycja nr 2</th></tr>
+<tr><td><b>Państwo</b></td><td>${e://Field/C10_P1_Country_label}</td><td>${e://Field/C10_P2_Country_label}</td></tr>
+<tr><td><b>Liczba personelu/żołnierzy</b></td><td>${e://Field/C10_P1_Personnel_label}</td><td>${e://Field/C10_P2_Personnel_label}</td></tr>
+<tr><td><b>Rodzaj jednostki</b></td><td>${e://Field/C10_P1_UnitType_label}</td><td>${e://Field/C10_P2_UnitType_label}</td></tr>
+<tr><td><b>Odległość od miejsca zamieszkania</b></td><td>${e://Field/C10_P1_Proximity_label}</td><td>${e://Field/C10_P2_Proximity_label}</td></tr>
+<tr><td><b>Wpływ ekonomiczny</b></td><td>${e://Field/C10_P1_Economic_label}</td><td>${e://Field/C10_P2_Economic_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ hałasu</b></td><td>${e://Field/C10_P1_Noise_label}</td><td>${e://Field/C10_P2_Noise_label}</td></tr>
+<tr><td><b>Oczekiwany wpływ na środowisko</b></td><td>${e://Field/C10_P1_Environment_label}</td><td>${e://Field/C10_P2_Environment_label}</td></tr>
+</table>
+
+[[Question:MC]]
+[[ID:QC10Q1]]
+Gdybyś musiał(a) wybrać między tymi dwiema propozycjami wzmocnienia sił NATO w Polsce, którą byś wybrał(a)?
+[[Choices]]
+Propozycję 1
+Propozycję 2
+Akceptuję obie propozycje
+Odrzucam obie propozycje
+
+[[Question:MC]]
+[[ID:QC10Q2]]
+W skali od 1 do 5, gdzie 1 oznacza zdecydowany sprzeciw, a 5 zdecydowane poparcie, jak ocenił(a)byś Propozycję nr 1?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[Question:MC]]
+[[ID:QC10Q3]]
+Używając tej samej skali, jak ocenił(a)byś Propozycję nr 2?
+[[Choices]]
+1 - Zdecydowanie się sprzeciwiam
+2 - Raczej się sprzeciwiam
+3 - Jestem neutralny/a
+4 - Raczej popieram
+5 - Zdecydowanie popieram
+
+[[PageBreak]]
+
+[[Block:Block 4 - General Questions]]
+
+[[Question:MC]]
+[[ID:Q10]]
+Jak oceniasz relacje Polski z sąsiadującymi krajami (z wyjątkiem Rosji)?
+[[Choices]]
+Bardzo pokojowe
+Raczej pokojowe
+Neutralne
+Raczej napięte
+Bardzo napięte
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q11]]
+Jaki jest Twój stosunek do rządu Stanów Zjednoczonych?
+[[Choices]]
+Bardzo pozytywny
+Raczej pozytywny
+Neutralny
+Raczej negatywny
+Bardzo negatywny
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q12]]
+Jaki jest Twój stosunek do społeczeństwa Stanów Zjednoczonych?
+[[Choices]]
+Bardzo pozytywny
+Raczej pozytywny
+Neutralny
+Raczej negatywny
+Bardzo negatywny
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q13]]
+Twoim zdaniem, jak duże wpływy mają Stany Zjednoczone w Polsce?
+[[Choices]]
+Bardzo duże
+Umiarkowane
+Niewielkie
+Żadne
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q14]]
+Twoim zdaniem, wpływy Stanów Zjednoczonych w Polsce są...
+[[Choices]]
+Bardzo pozytywne
+Pozytywne
+Ani pozytywne, ani negatywne
+Negatywne
+Bardzo negatywne
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q15]]
+Ogólnie, jaki jest Twój stosunek do obecności wojsk amerykańskich stacjonujących w Polsce?
+[[Choices]]
+Bardzo pozytywny
+Raczej pozytywny
+Neutralny
+Raczej negatywny
+Bardzo negatywny
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q16]]
+Twoim zdaniem, jak obecność wojsk amerykańskich wpływa na gospodarkę Polski?
+[[Choices]]
+Bardzo pozytywnie
+Raczej pozytywnie
+Neutralnie
+Raczej negatywnie
+Bardzo negatywnie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q17]]
+Twoim zdaniem, jak obecność wojsk amerykańskich wpływa na gospodarkę Twojego regionu / miejscowości?
+[[Choices]]
+Bardzo pozytywnie
+Raczej pozytywnie
+Neutralnie
+Raczej negatywnie
+Bardzo negatywnie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q18]]
+Twoim zdaniem, jak obecność wojsk amerykańskich wpłynęła na poziom przestępczości i bezpieczeństwo publiczne w Polsce?
+[[Choices]]
+Bardzo pozytywnie
+Raczej pozytywnie
+Neutralnie
+Raczej negatywnie
+Bardzo negatywnie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q19]]
+Twoim zdaniem, jak obecność wojsk amerykańskich w Polsce wpłynęła na bezpieczeństwo kraju wobec zagrożeń zewnętrznych?
+[[Choices]]
+Bardzo korzystnie
+Raczej korzystnie
+Neutralnie
+Raczej niekorzystnie
+Bardzo niekorzystnie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q20]]
+Czy miałeś/miałaś bezpośredni kontakt z członkiem amerykańskich sił zbrojnych stacjonującym w Polsce?
+[[Choices]]
+Tak
+Nie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC:MultipleAnswer]]
+[[ID:Q21]]
+Jeśli TAK w pytaniu 20: Jaki to był rodzaj kontaktu? (można zaznaczyć więcej niż jedną odpowiedź)
+[[Choices]]
+Krótkie, codzienne spotkanie (np. rozmowa w transporcie publicznym, zakupy w tym samym sklepie)
+Transakcja handlowa (np. kupno lub sprzedaż towaru/usługi)
+Spotkanie towarzyskie (np. impreza, bar, festiwal)
+Regularny kontakt w grupie (np. w kościele, klubie sportowym, szkole itp.)
+Sąsiad będący żołnierzem USA
+Współpracownik będący żołnierzem USA
+Bliski przyjaciel będący żołnierzem USA
+Związek romantyczny / randkowanie z żołnierzem USA
+Małżonek lub partner życiowy będący żołnierzem USA
+Członek rodziny (poza małżonkiem) będący żołnierzem USA
+Inny rodzaj kontaktu (proszę podać poniżej)
+
+[[Question:TE:SingleLine]]
+[[ID:Q21other]]
+Proszę opisać inny rodzaj kontaktu z żołnierzem USA:
+
+[[Question:MC]]
+[[ID:Q22]]
+Czy członek Twojej rodziny lub bliski znajomy miał bezpośredni kontakt z żołnierzem amerykańskim stacjonującym w Polsce?
+[[Choices]]
+Tak
+Nie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC:MultipleAnswer]]
+[[ID:Q23]]
+Jeśli TAK w pytaniu 22: Jaki to był rodzaj kontaktu? (można zaznaczyć więcej niż jedną odpowiedź)
+[[Choices]]
+Krótkie, codzienne spotkanie (np. rozmowa w transporcie publicznym, zakupy w tym samym sklepie)
+Transakcja handlowa (np. kupno lub sprzedaż towaru/usługi)
+Spotkanie towarzyskie (np. impreza, bar, festiwal)
+Regularny kontakt w grupie (np. w kościele, klubie sportowym, szkole itp.)
+Sąsiad będący żołnierzem USA
+Współpracownik będący żołnierzem USA
+Bliski przyjaciel będący żołnierzem USA
+Związek romantyczny / randkowanie z żołnierzem USA
+Małżonek lub partner życiowy będący żołnierzem USA
+Członek rodziny (poza małżonkiem) będący żołnierzem USA
+Inny rodzaj kontaktu (proszę podać poniżej)
+
+[[Question:TE:SingleLine]]
+[[ID:Q23other]]
+Proszę opisać inny rodzaj kontaktu z żołnierzem USA (rodzina/znajomy):
+
+[[Question:MC]]
+[[ID:Q24]]
+Czy uzyskałaś/uzyskałeś jakąkolwiek bezpośrednią korzyść ekonomiczną wynikającą z obecności wojsk amerykańskich w Polsce?<br><i>(na przykład: zatrudnienie przez wojsko USA, przez kontraktora współpracującego z wojskiem, lub praca w firmie obsługującej żołnierzy amerykańskich)</i>
+[[Choices]]
+Tak
+Nie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q25]]
+Jeśli TAK do pytania 24: Jak bardzo jesteś zależny/a od tych korzyści ekonomicznych?
+[[Choices]]
+W dużym stopniu
+W pewnym stopniu
+Wcale
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q26]]
+Czy członek Twojej rodziny lub bliski znajomy uzyskał bezpośrednie korzyści ekonomiczne wynikające z obecności wojsk amerykańskich w Polsce?<br><i>(na przykład: zatrudnienie przez wojsko USA, przez kontraktora współpracującego z wojskiem, lub praca w firmie obsługującej żołnierzy amerykańskich)</i>
+[[Choices]]
+Tak
+Nie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q27]]
+Jeśli TAK do pytania 26: Jak bardzo ta osoba jest uzależniona od tych korzyści?
+[[Choices]]
+W dużym stopniu
+W pewnym stopniu
+Nie jest uzależniona od tych korzyści
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q28]]
+Czy w codziennym życiu czujesz się bezpieczniej z powodu obecności wojsk amerykańskich w Polsce?
+[[Choices]]
+Tak
+Nie
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q29]]
+Czy kiedykolwiek uczestniczyłeś/uczestniczyłaś w proteście przeciwko amerykańskiej bazie wojskowej?
+[[Choices]]
+Nigdy
+Raz
+Dwa razy
+Trzy razy
+Więcej niż trzy razy
+Nie wiem / Wolę nie odpowiadać
+
+[[Question:MC]]
+[[ID:Q30]]
+Gdyby w Twojej miejscowości w ciągu najbliższego miesiąca planowano protest przeciwko obecności wojsk amerykańskich, czy wziąłbyś/wzięłabyś w nim udział?
+[[Choices]]
+Tak
+Może
+Nie
+Nie wiem / Wolę nie odpowiadać
